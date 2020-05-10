@@ -14,3 +14,8 @@ Install dependencies.
 Run the script.
 
 You'll have to follow the auth flow once to sign to Gmail and after that the details will be referenced from a store.
+
+
+See also tutorial which uses a less secure approach and requires you to allow less secure apps.
+
+https://realpython.com/python-send-email/
