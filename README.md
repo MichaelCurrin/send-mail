@@ -1,5 +1,5 @@
 # Send Mail
-> Send email with Gmail and Python securely OAuth sign-in flow
+> Send an email with Gmail and Python, use OAuth flow
 
 
 # Why OAuth?
