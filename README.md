@@ -8,10 +8,18 @@ Use the OAuth flow to sign into your Gmail account in the browser and then do re
 
 Also, once you authenticate the first time, your credentials will be cached for future runs.
 
-## Instructions
+## Instllation
 
 1. Make sure to follow the step to enable API for Gmail and download a JSON file.
+1. Clone the project.
+1. Install Python.
 1. Install dependencies in virtual environment.
+    ```sh
+    $ pip install requirements.txt
+    ```
+
+## Usage
+
 1. Run the script.
     ```sh
     $ python -m sendmail
